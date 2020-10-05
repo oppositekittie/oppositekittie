@@ -2,4 +2,3 @@
 
 <p>this is an album cover of piano EP by Yvette Young<p>
 <p><p>
-<p>hi, i'm oppositekittie. i'm just an average python dev, i occasionally work with websites from time to time.<p>
